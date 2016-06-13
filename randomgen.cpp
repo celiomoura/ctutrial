@@ -1,4 +1,5 @@
 /* rand example */
+/* compile as: g++ randomgen.cpp -o randomgen.exe */
 #include <iostream>
 #include <fstream>
 #include <stdio.h>      /* NULL */
